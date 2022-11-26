@@ -1,0 +1,13 @@
+package ev.jpapractice;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class JpapracticeApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(JpapracticeApplication.class, args);
+	}
+
+}
